@@ -7,9 +7,10 @@ require('./bootstrap');
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Index from './components/IndexPage/Index';
-import Header from './components/Header/Header';
+
 
 
 ReactDOM.render(
-    <Index />,
-    document.getElementById('root'));
+   <Index />,
+    document.getElementById('root')
+  );    

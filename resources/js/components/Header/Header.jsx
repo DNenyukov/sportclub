@@ -4,15 +4,7 @@ class Header extends React.Component {
         return (
             <header>
                
-               <div class="container">
-                        <ul>
-                            <li class="one"><a href="#">Home</a></li>
-                            <li class="two"><a href="#">About</a></li>
-                            <li class="three"><a href="#">Treners</a></li>
-                        
-                            <hr />
-                        </ul>
-                    </div> 
+
                     <div className="tmpl_hh_wrapper">
                  
                     <div className="tmpl_hh_header">

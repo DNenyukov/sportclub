@@ -19,7 +19,7 @@
 
 <body>
     <div id ="root"></div>
-    @include ('layouts.scripts');
+    @include ('layouts.scripts')
  
 
 

@@ -1,9 +1,10 @@
+
 import React from 'react';
+import Header from '../Header/Header';
 class About extends React.Component {
-    render(){
-        return(
-            <div>О насы
-            </div>
+    render() {
+        return (
+            <Header />
         )
     }
 }
